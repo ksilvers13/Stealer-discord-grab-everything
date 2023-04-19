@@ -201,7 +201,7 @@ v2 PREMIUM: 2023-14-04 Builder/Script update
  
  ⛔ don’t say hi/hello, get to the point.
  
- ⛔ don’t try to negotiate the price, price is fix (1 ETH).
+ ⛔ don’t try to negotiate the price.
  
  ---
 
