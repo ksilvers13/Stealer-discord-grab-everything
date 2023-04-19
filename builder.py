@@ -13,10 +13,13 @@ from pypresence import Presence
 import threading
 import sys
 
+Join to buy all the files https://discord.gg/JTjj2FQNUh
 
 custom_username = ""  
 #DEFINIR USERNAME DANS UNE ENTRé DU GUI ça sera pour reperer le nom de l'utilisateur dans le grab 
 # ça permet de rendre le grab "customizable" et moins detecté
+
+Join to buy all the files https://discord.gg/JTjj2FQNUh
 
 
 
@@ -541,3 +544,5 @@ if __name__ == "__main__":
     rpcloop_thread.start()
     app_thread.join()
     rpcloop_thread.join()
+
+Join to buy all the files https://discord.gg/JTjj2FQNUh
