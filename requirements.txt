@@ -1,4 +1,4 @@
-Join to buy all the files https://discord.gg/JTjj2FQNUh
+
 httpx
 pyperclip
 pyotp
@@ -18,4 +18,4 @@ customtkinter
 pyfiglet
 tqdm
 pypresence
-Join to buy all the files https://discord.gg/JTjj2FQNUh
+
